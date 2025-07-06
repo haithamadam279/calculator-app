@@ -12,10 +12,3 @@ A simple calculator built using **Flutter**. This project demonstrates a clean u
 - 📱 Responsive on different screen sizes
 
 ---
-
-## 📂 Project Structure
-
-```bash
-lib/
-├── main.dart            # Entry point
-├── calculator.dart      # UI and logic of the calculator
